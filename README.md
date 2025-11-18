@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sahil Sheikh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilsheikh-dev&column=5&margin-w=15&margin-h=15" alt="sahilsheikh-dev" /></a> </p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sahilsheikh-dev&column=5&margin-w=15&margin-h=15" alt="sahilsheikh-dev" />
+  </a>
+</div>
+
 
 - 🔭 I’m currently working on [Cue Wellness](https://sahilsheikh.dev/)
 
