@@ -27,100 +27,74 @@
 
 <p align="center">
 
-  <!-- Row 1 -->
   <a href="https://linkedin.com/in/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" style="margin:8px;"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="60" style="margin:10px;">
   </a>
 
   <a href="https://twitter.com/sahilsheikh_dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="32" style="margin:8px;"/>
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" height="60" style="margin:10px;">
   </a>
 
   <a href="https://instagram.com/sahilsheikh.dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32" style="margin:8px;"/>
+    <img src="https://img.icons8.com/color/48/instagram-new.png" height="60" style="margin:10px;">
   </a>
 
-  <a href="https://fb.com/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="32" style="margin:8px;"/>
+  <a href="https://facebook.com/sahilsheikh-dev">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" height="60" style="margin:10px;">
   </a>
 
   <a href="https://youtube.com/c/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="32" style="margin:8px;"/>
+    <img src="https://img.icons8.com/color/48/youtube-play.png" height="60" style="margin:10px;">
   </a>
 
   <a href="https://dev.to/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="32" style="margin:8px;"/>
+    <img src="https://img.icons8.com/windows/48/dev.png" height="60" style="margin:10px;">
   </a>
 
-  <a href="https://hashnode.com/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" height="32" style="margin:8px;"/>
+  <a href="https://hashnode.com/@sahilsheikh-dev">
+    <img src="https://img.icons8.com/color/48/hashnode.png" height="60" style="margin:10px;">
   </a>
 
-  <a href="https://medium.com/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="32" style="margin:8px;"/>
+  <a href="https://medium.com/@sahilsheikh-dev">
+    <img src="https://img.icons8.com/color/48/medium.png" height="60" style="margin:10px;">
   </a>
 
   <a href="https://dribbble.com/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="32" style="margin:8px;"/>
+    <img src="https://img.icons8.com/color/48/dribbble.png" height="60" style="margin:10px;">
   </a>
 
   <a href="https://behance.net/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="32" style="margin:8px;"/>
+    <img src="https://img.icons8.com/color/48/behance.png" height="60" style="margin:10px;">
   </a>
 
   <a href="https://discord.gg/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="32" style="margin:8px;"/>
+    <img src="https://img.icons8.com/color/48/discord-logo.png" height="60" style="margin:10px;">
   </a>
 
   <a href="https://stackoverflow.com/users/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="32" style="margin:8px;"/>
+    <img src="https://img.icons8.com/color/48/stackoverflow.png" height="60" style="margin:10px;">
   </a>
 
   <br/>
 
-  <!-- Row 2 -->
-
-  <a href="https://kaggle.com/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="32" style="margin:8px;"/>
-  </a>
-
-  <a href="https://codesandbox.com/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="32" style="margin:8px;"/>
-  </a>
-
-  <a href="https://codepen.io/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="32" style="margin:8px;"/>
-  </a>
-
   <a href="https://leetcode.com/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" style="margin:8px;"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="60" style="margin:10px;">
   </a>
 
   <a href="https://codeforces.com/profile/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="32" style="margin:8px;"/>
-  </a>
-
-  <a href="https://www.hackerrank.com/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="32" style="margin:8px;"/>
-  </a>
-
-  <a href="https://hackerearth.com/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="32" style="margin:8px;"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="60" style="margin:10px;">
   </a>
 
   <a href="https://codechef.com/users/sahilsheikh-dev">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="32" style="margin:8px;"/>
+    <img src="https://img.icons8.com/color/48/codechef.png" height="60" style="margin:10px;">
   </a>
 
   <a href="https://auth.geeksforgeeks.org/user/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="32" style="margin:8px;"/>
-  </a>
-
-  <a href="https://topcoder.com/members/sahilsheikh-dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="32" style="margin:8px;"/>
+    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="60" style="margin:10px;">
   </a>
 
 </p>
+
 
 <br/>
 
