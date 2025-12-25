@@ -16,7 +16,7 @@ I build scalable web & mobile products for startups and businesses
   💼 I help startups & businesses with <b>Web Apps, Mobile Apps, APIs, Cloud & Automation</b><br>
   🧠 Strong focus on <b>performance, reliability, and clean architecture</b><br>
   👨‍💻 Selected work & case studies → <a target="_blank" href="https://sahilsheikh.dev">sahilsheikh.dev</a><br>
-  🤝 Open to <b>paid freelance work, long-term contracts, and startup collaborations</b>
+  🤝 Open to <b>paid freelance work, long-term contracts, and startup collaborations</b><br>
   📩 Hire me → <a href="mailto:sahilsheikh.dev@gmail.com">sahilsheikh.dev@gmail.com</a>
 </p>
 
