@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sahil Sheikh</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi, I’m Sahil Sheikh 👋</h1>
+<h3 align="center">
+Freelance Full-Stack & DevOps Engineer <br/>
+I build scalable web & mobile products for startups and businesses
+</h3>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -10,15 +13,23 @@
 <br/>
 
 <p align="center">
- 🔭 I’m currently working on <a href="https://sahilsheikh.dev/">Cue Wellness</a>  <br>
- 🌱 I’m currently learning <b>Everything!</b>  <br>
- 👯 I’m looking to collaborate on <a href="https://sahilsheikh.dev/">SaaS Projects</a>  <br>
- 🤝 I’m looking for help with <a href="https://sahilsheikh.dev/">SaaS Projects</a>  <br>
- 👨‍💻 All of my projects are available at <a href="https://sahilsheikh.dev/">sahilsheikh.dev</a>  <br>
- 📝 I regularly write and share articles on <a href="https://sahilsheikh.dev/">my socials</a>  <br>
- 💬 Ask me about <b>Anything!</b>  <br>
- 📫 Reach me at <a href="mailto:sahilsheikh.dev@gmail.com">sahilsheikh.dev@gmail.com</a>  <br>
- 📄 Learn about my experience at <a href="https://sahilsheikh.dev/">sahilsheikh.dev</a>  <br>
+  💼 I help startups & businesses with <b>Web Apps, Mobile Apps, APIs, Cloud & Automation</b><br>
+  🧠 Strong focus on <b>performance, reliability, and clean architecture</b><br>
+  👨‍💻 Selected work & case studies → <a href="https://sahilsheikh.dev">sahilsheikh.dev</a><br>
+  🤝 Open to <b>paid freelance work, long-term contracts, and startup collaborations</b>
+  📩 Hire me → <a href="mailto:sahilsheikh.dev@gmail.com">sahilsheikh.dev@gmail.com</a>
+</p>
+
+<br/>
+
+<h3 align="center">What I Do</h3>
+
+<p align="center">
+  ✔️ SaaS product development (MVP → Scale)<br>
+  ✔️ Full-stack web applications (React, Next.js, Spring Boot, Node)<br>
+  ✔️ Mobile apps (React Native / Flutter)<br>
+  ✔️ Cloud & DevOps (AWS, Docker, CI/CD, Linux automation)<br>
+  ✔️ System optimization, refactoring & production support
 </p>
 
 <br/>
