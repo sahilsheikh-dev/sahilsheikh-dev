@@ -114,70 +114,70 @@ I build scalable web & mobile products for startups and businesses
 <!-- Languages -->
 <p align="center">
   <a href="https://sahilsheikh.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,go,dart,rust,cpp,cs,kotlin,swift,bash" />
+    <img src="https://skills.syvixor.com/api/icons?i=java,js,ts,python,go,dart,rust,cpp,cs,kotlin,swift,bash" />
   </a>
 </p>
 
 <!-- Frontend -->
 <p align="center">
   <a href="https://sahilsheikh.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs,angular,gatsby,svelte,vue,materialui,styledcomponents,vite" />
+    <img src="https://skills.syvixor.com/api/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs,angular,gatsby,svelte,vue,materialui,styledcomponents,vite" />
   </a>
 </p>
 
 <!-- Backend & Frameworks -->
 <p align="center">
   <a href="https://sahilsheikh.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,dotnet,graphql,fastapi,flask,django" />
+    <img src="https://skills.syvixor.com/api/icons?i=nodejs,express,nestjs,spring,dotnet,graphql,fastapi,flask,django" />
   </a>
 </p>
 
 <!-- Mobile -->
 <p align="center">
   <a href="https://sahilsheikh.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react,reactnative,flutter" />
+    <img src="https://skills.syvixor.com/api/icons?i=react,reactnative,flutter" />
   </a>
 </p>
 
 <!-- Databases -->
 <p align="center">
   <a href="https://sahilsheikh.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,dynamodb,planetscale" />
+    <img src="https://skills.syvixor.com/api/icons?i=mysql,postgres,mongodb,redis,sqlite,dynamodb,planetscale" />
   </a>
 </p>
 
 <!-- Cloud / DevOps -->
 <p align="center">
   <a href="https://sahilsheikh.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,gitlab,githubactions,jenkins,cloudflare,terraform,ansible,vagrant" />
+    <img src="https://skills.syvixor.com/api/icons?i=aws,azure,gcp,docker,kubernetes,git,github,gitlab,githubactions,jenkins,cloudflare,terraform,ansible,vagrant" />
   </a>
 </p>
 
 <!-- Tools / Testing / Build -->
 <p align="center">
   <a href="https://sahilsheikh.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman,webpack,rollupjs,gulp,redis,jest,cypress,selenium,vitest,npm,yarn,pnpm" />
+    <img src="https://skills.syvixor.com/api/icons?i=postman,webpack,rollupjs,gulp,redis,jest,cypress,selenium,vitest,npm,yarn,pnpm" />
   </a>
 </p>
 
 <!-- Messaging / Streaming -->
 <p align="center">
   <a href="https://sahilsheikh.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+    <img src="https://skills.syvixor.com/api/icons?i=kafka,rabbitmq" />
   </a>
 </p>
 
 <!-- Design / 3D / Creative -->
 <p align="center">
   <a href="https://sahilsheikh.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,blender,autocad" />
+    <img src="https://skills.syvixor.com/api/icons?i=figma,photoshop,illustrator,xd,blender,autocad" />
   </a>
 </p>
 
 <!-- OS / Misc -->
 <p align="center">
   <a href="https://sahilsheikh.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,apple,androidstudio,android,,zapier,arduino,cloudflare,notion,obsidian,discord" />
+    <img src="https://skills.syvixor.com/api/icons?i=linux,ubuntu,windows,apple,androidstudio,android,,zapier,arduino,cloudflare,notion,obsidian,discord" />
   </a>
 </p>
 
